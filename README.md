@@ -7,3 +7,5 @@ For detailed usage instructions visit - https://thebrightknight.github.io/ph-con
 ![](smartPHcontroller.jpg)
 
 ![](smartPHcontroller2.jpg)
+
+![](smartPHcontroller3.jpeg)
